@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Risk Predictor
+#  Heart Disease Risk Predictor
 
  n end-to-end Machine Learning web application that predicts heart disease risk based on 13 clinical parameters — classifying patients as **LOW**, **MODERATE**, or **HIGH** risk.
 
