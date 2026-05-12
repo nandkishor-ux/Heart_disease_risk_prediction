@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Demo](#-demo)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project builds a complete machine learning pipeline — from raw data preprocessing to a deployed interactive Flask web application — for predicting heart disease risk. Given 13 clinical attributes (e.g., age, chest pain type, cholesterol), the model classifies a patient's heart disease risk into one of three categories: **Low**, **Moderate**, or **High**.
 
@@ -35,7 +35,7 @@ The model was trained on the **UCI Cleveland Heart Disease Dataset** (303 record
 
 ---
 
-## 🖥️ Demo
+##  Demo
 
 ![App Demo](screenshots/app_demo.png)
 
@@ -43,7 +43,7 @@ To run the app locally, follow the [Getting Started](#-getting-started) section 
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔬 Full ML pipeline: data cleaning → EDA → model training → hyperparameter tuning → deployment
 - 📊 Comparison of multiple classifiers (Logistic Regression, Random Forest, Gradient Boosting)
@@ -54,7 +54,7 @@ To run the app locally, follow the [Getting Started](#-getting-started) section 
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source:** [UCI Machine Learning Repository — Cleveland Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 - **File:** `heart_cleveland_upload.csv`
