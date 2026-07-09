@@ -1,6 +1,6 @@
 #  Heart Disease Risk Predictor
 
- n end-to-end Machine Learning web application that predicts heart disease risk based on 13 clinical parameters — classifying patients as **LOW**, **MODERATE**, or **HIGH** risk.
+ n end-to-end Machine Learning web application that predicts heart disease risk based on 13 clinical parameters — classifying patients as **LOW**, **MODERATE**, or **HIGH** risk..
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Flask](https://img.shields.io/badge/Flask-3.1-green)
