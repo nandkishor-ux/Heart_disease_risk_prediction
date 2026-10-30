@@ -97,7 +97,7 @@ Best Model: Tuned Random Forest
 Serialization → heart_disease_model.pkl + scaler.pkl
    │
    ▼
-Flask Web App Deployment
+Streamlit Cloud Deployment
 ```
 
 ---
