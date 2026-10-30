@@ -37,9 +37,8 @@ The model was trained on the **UCI Cleveland Heart Disease Dataset** (303 record
 
 ##  Demo
 
-![App Demo](https://heartdiseaseriskprediction-9mpmujhswlo2wkmusbrkapp.streamlit.app/)
-
-To run the app locally, follow the [Getting Started](#-getting-started) section below.
+Try the interactive deployed application here:  
+👉 **[Heart Disease Risk Predictor App](https://heartdiseaseriskprediction-9mpmujhswlo2wkmusbrkapp.streamlit.app/)**
 
 ---
 
